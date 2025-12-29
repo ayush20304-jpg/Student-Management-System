@@ -13,9 +13,12 @@ A console-based Student Management System written in C.
 
 ## How to Run
 gcc student_management.c -o sms
+<br>
 ./sms
 
 ## Author
 Ayush Kumar
+<br>
 1st Year 
+<br>
 College - Indian Institute Of Information Technology Allahabad
