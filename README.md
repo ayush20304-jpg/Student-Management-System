@@ -23,4 +23,4 @@ Ayush Kumar
 <br>
 B.Tech (Information Technology) , 1st Year (1st Semester)
 <br>
-College - Indian Institute Of Information Technology Allahabad
+College - Indian Institute Of Information Technology, Allahabad
