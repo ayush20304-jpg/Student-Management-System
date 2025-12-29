@@ -19,6 +19,6 @@ gcc student_management.c -o sms
 ## Author
 Ayush Kumar
 <br>
-1st Year 
+B.Tech (Information Technology) , 1st Year (1st Semester)
 <br>
 College - Indian Institute Of Information Technology Allahabad
