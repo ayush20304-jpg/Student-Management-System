@@ -6,10 +6,12 @@ A C-based student management system using file handling and admin authentication
 A console-based Student Management System written in C.
 
 ## Features
-- Admin login system
-- Add, view, update and delete student records
+- Admin login authentication
+- Add, view, update, and delete student records
+- Search student by roll number
+- Change admin password
 - File handling using binary files
-- Menu-driven interface
+- Menu-driven user interface
 
 ## How to Run
 gcc student_management.c -o sms
